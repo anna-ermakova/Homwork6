@@ -19,6 +19,15 @@ public class Main {
             System.out.println(i);
         }
 
+        // task3
+        System.out.println("Задание 3.");
+        //Напишите программу, которая выводит в консоль последовательность цифр:
+        //1 2 4 8 16 32 64 128 256 512
+        for (int i=1; i<=512; i=i*2){
+            System.out.println(i);
+        }
+
+
         }
     }
 
